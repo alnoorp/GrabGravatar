@@ -4,6 +4,10 @@
 
 A Piwik plugin that adds a profile photo from Gravatar based on the email address stored in the User Id field.
 
+## Installation
+
+Install it via Piwik Marketplace
+
 ## FAQ
 
 __What information do I need to make this plugin work?__
@@ -15,6 +19,10 @@ Either there is no email address associated with the visitor or they do not have
 ## Changelog
 
 * 0.1.0
+
+## License
+
+GPL v3 or later
 
 ## Support
 
