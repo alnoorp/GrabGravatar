@@ -1,0 +1,16 @@
+{
+ "name": "MyPlugin",
+ "version": "0.1.0",
+ "description": "Adds a profile photo from Gravatar based on User Id email address.",
+ "theme": false,
+ "require": {
+    "piwik": ">=2.11.2"
+ },
+ "authors": [
+     {
+         "name": "Alnoor Pirani",
+         "email": "alnoorp@gmail.com",
+         "homepage": ""
+     }
+ ]
+}
