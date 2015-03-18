@@ -18,6 +18,7 @@ Either there is no email address associated with the visitor or they do not have
 
 ## Changelog
 
+* 0.1.11 Fixed screenshot filename
 * 0.1.1 Add screenshots
 * 0.1.0 First beta
 
