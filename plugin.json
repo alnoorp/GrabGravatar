@@ -1,6 +1,6 @@
 {
  "name": "GrabGravatar",
- "version": "0.1.0",
+ "version": "0.1.1",
  "description": "Adds a profile photo from Gravatar based on the email address stored in the User Id field.",
  "theme": false,
  "license": "GPL v3+",
