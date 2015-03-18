@@ -26,4 +26,4 @@ GPL v3 or later
 
 ## Support
 
-Please direct any feedback to alnoorp@gmail.com
+Please direct any feedback to <alnoorp@gmail.com>
