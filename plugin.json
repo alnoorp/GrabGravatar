@@ -3,6 +3,9 @@
  "version": "0.1.0",
  "description": "Adds a profile photo from Gravatar based on the email address stored in the User Id field.",
  "theme": false,
+ "license": "GPL v3+",
+ "keywords": ["GrabGravatar", "avatar", "photo", "profile", "visitor"],
+ "homepage": "http://piwik.org",
  "require": {
     "piwik": ">=2.11.2"
  },
