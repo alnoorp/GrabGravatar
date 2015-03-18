@@ -6,6 +6,10 @@
  "require": {
     "piwik": ">=2.11.2"
  },
+ "donate": {
+    "paypal": "alnoorp@gmail.com",
+    "bitcoin": "16XWfxSKUpLj7HcGXeqTTuhFjDDhJLrFA7"
+ },
  "authors": [
      {
          "name": "Alnoor Pirani",
