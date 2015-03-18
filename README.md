@@ -14,9 +14,7 @@ Either there is no email address associated with the visitor or they do not have
 
 ## Changelog
 
-## [0.1.0] - 2015-03-17
-### Added
-- All files for plugin
+* 0.1.0
 
 ## Support
 
