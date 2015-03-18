@@ -1,7 +1,7 @@
 {
- "name": "MyPlugin",
- "version": "0.1.0",
- "description": "Adds a profile photo from Gravatar based on User Id email address.",
+ "name": "GrabGravatar",
+ "version": "0.0.1",
+ "description": "Adds a profile photo from Gravatar based on the email address stored in the User Id field.",
  "theme": false,
  "require": {
     "piwik": ">=2.11.2"
@@ -10,7 +10,7 @@
      {
          "name": "Alnoor Pirani",
          "email": "alnoorp@gmail.com",
-         "homepage": ""
+         "homepage": "http://alnoorpirani.com/"
      }
  ]
 }
