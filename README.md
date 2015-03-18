@@ -2,7 +2,7 @@
 
 ## Description
 
-Adds a profile photo from Gravatar based on the email address stored in the User Id field.
+A Piwik plugin that adds a profile photo from Gravatar based on the email address stored in the User Id field.
 
 ## FAQ
 
