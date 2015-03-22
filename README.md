@@ -18,7 +18,7 @@ Either there is no email address associated with the visitor or they do not have
 
 ## Changelog
 
-* 0.1.11 Fixed screenshot filename
+* 0.2.0 Fixed screenshot filename
 * 0.1.1 Add screenshots
 * 0.1.0 First beta
 
@@ -28,4 +28,4 @@ GPL v3 or later
 
 ## Support
 
-Please direct any feedback to <alnoorp@gmail.com>
+Please direct any feedback to [https://github.com/alnoorp/GrabGravatar/issues](https://github.com/alnoorp/GrabGravatar/issues)
